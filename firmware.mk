@@ -10,4 +10,5 @@ PRODUCT_COPY_FILES += \
 	vendor/xiaomi/tiffany-firmware/mdtp.img:install/firmware-update/mdtp.img \
 	vendor/xiaomi/tiffany-firmware/rpm.mbn:install/firmware-update/rpm.mbn \
 	vendor/xiaomi/tiffany-firmware/sbl1.mbn:install/firmware-update/sbl1.mbn \
-	vendor/xiaomi/tiffany-firmware/tz.mbn:install/firmware-update/tz.mbn
+	vendor/xiaomi/tiffany-firmware/tz.mbn:install/firmware-update/tz.mbn \
+	vendor/xiaomi/tiffany-firmware/modem.img:install/firmware-update/modem.img
